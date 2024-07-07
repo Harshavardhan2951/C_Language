@@ -1,0 +1,4 @@
+C Programming Basic Algorithm
+1. Write a C program to compute the sum of the two input values. If the two values are the same, then return triple their sum.
+2. Write a C program that will take a number as input and find the absolute difference between the input number and 51. If the input number is greater than 51, it will return triple the absolute difference.
+3. Define a structure named Time with members hours, minutes, and seconds. Write a C program to input two times, add them, and display the result in proper time format.
