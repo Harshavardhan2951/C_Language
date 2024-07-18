@@ -5,3 +5,4 @@ Define a structure named Time with members hours, minutes, and seconds. Write a 
 Write a C Program to take inputs of Structs using Pointers
 Write a C program using struct to print the info of the fields mentioned within the struct by using struct in function
 Write a C program that takes n number of positive integers. Find the integer that appears the least number of times among the said integers. If there are multiple such integers, select the smallest one.
+Write a C program that takes a string and two integers (n1, n2). Now reverse the sequence of characters in the string between n1 and n2.
