@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void ReverseSequence(char *str, int n1, int n2);
+void ReverseSequence(char str[], int n1, int n2);
 
 int main() {
     char str[] = "HELLO";
@@ -12,7 +12,7 @@ int main() {
     return 0;
 }
 
-void ReverseSequence(char *str, int n1, int n2) {
+void ReverseSequence(char str[], int n1, int n2) {
     for(int i=n1, j=n2; i<j; i++, j--) {
         char temp = str[i];
         str[i] = str[j];
